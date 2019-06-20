@@ -1,2 +1,4 @@
 # hello-world
-Hello World initial repository
+
+Hello fellow Humans!
+I'm Susan and am learning HTML, CSS, and Javascript for a start.
